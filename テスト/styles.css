@@ -1,0 +1,21 @@
+/* styles.css */
+.hover-element {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.draggable-element {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    position: absolute;
+}
+
+.droppable-area {
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin-top: 20px;
+}
